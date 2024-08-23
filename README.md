@@ -8,7 +8,8 @@
   ![alt text](./assets/image2.png)
 - Variable should be readable and meaningful ex. **customer** rather than **c**.
 - Avoid hard-code, eg., using enum or config instead.
-  ![alt text](./assets/image3.png)
+
+![alt text](./assets/image3.png)
 - Follow api naming conventions guidelines, e.g.,
   - /customers
   - /customers/{id}
