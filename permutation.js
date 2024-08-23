@@ -3,6 +3,7 @@ const uniqueArrayOfString = (arrayOfString) =>
     (element, index, array) => array.indexOf(element) === index
   );
 
+// Please note that I cannot complete the permutation function myself, so I researched a reference from StackOverflow.
 export const createPermutation = (word) => {
   const result = [];
 
